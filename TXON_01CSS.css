@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container {
+    background-image: url("https://wallpapercave.com/wp/wp2521973.jpg");
+    background-size: cover;
+    height: 100vh;
+    padding: 10px;
+}
+
+
+.fifa-heading {
+    font-weight: 600;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: #ffffff;
+    text-align: center;
+}
+
+.button1 {
+    background-color: transparent;
+    color: #ffffff;
+    border-color: #ffffff;
+    border: 1px solid #3498db;
+    border-radius: 5px;
+
+}
+
+.button12 {
+    background-color: transparent;
+    color: black;
+    border-color: #ffffff;
+    border: 1px solid #3498db;
+    border-radius: 5px;
+
+}
+
+.home-page-para {
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.groups-bg {
+    background-image: url("https://wallpapercave.com/wp/wp4908713.jpg");
+    background-size: cover;
+    height: 100%;
+    padding: 10px;
+}
+
+.button2 {
+    background-color: transparent;
+    color: #ffffff;
+    border-color: #ffffff;
+    border: 1px solid #f1b85e;
+    border-radius: 5px;
+    font-size: 20px;
+
+}
+
+.list-color {
+    color: #ffffff;
+    font-size: 17px;
+}
+
+.image-setting {
+    width: 20px;
+    height: 20px;
+}
+
+.groups-spaces {
+    margin: 30px;
+}
+
+.stats-container {
+    background-color: #f1e7d6;
+    background-size: cover;
+    height: 100%;
+    padding: 5px;
+
+}
+
+.stats-heading {
+    background-color: #8d1430;
+
+    height: 120%;
+    color: #ffffff;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.fifa-heading1 {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.players-container {
+    background-color: #ffffff;
+    background-size: cover;
+    height: 100%;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-left: 8px;
+    margin-right: 8px;
+
+
+}
+
+.image-size {
+    height: 50px;
+    width: 50px;
+    padding-left: 10px;
+}
+
+.players-para {
+    font-size: 25px;
+}
+
+.players-para1 {
+    font-size: 25px;
+}
+
+.span-color {
+    color: blue;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.winners-container {
+    background-color: #d5d0d1;
+    background-size: cover;
+    height: 100%;
+    padding: 15px;
+}
+
+.winners-heading {
+    font-weight: 600;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.headin {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.span-color1 {
+    color: #c996a2;
+    font-weight: 600;
+    font-size: 20px;
+
+}
+
+.span-color2 {
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 20px;
+    margin: 10px;
+
+
+}
+
+.worldcup-winner {
+    height: 60vh;
+    width: 100%;
+}
+
+.colours {
+    color: white;
+}
